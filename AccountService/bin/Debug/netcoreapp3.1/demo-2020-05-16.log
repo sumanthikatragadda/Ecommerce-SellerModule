@@ -1,0 +1,6 @@
+2020-05-16 12:54:21.8810||DEBUG|AccountService.Program|init main function 
+2020-05-16 12:56:58.0286|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-05-16 20:47:25.0215||DEBUG|AccountService.Program|init main function 
+2020-05-16 20:47:48.1351|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2020-05-16 20:48:41.0768||INFO|AccountService.Controllers.AccountController|User Login 
+2020-05-16 20:49:07.6143||INFO|AccountService.Controllers.AccountController|Welcomerohan 

@@ -1,0 +1,404 @@
+2020-05-07 12:00:38.9402 Info Message Template Auto Format enabled
+2020-05-07 12:00:39.0014 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 12:00:39.1952 Info Adding target FileTarget(Name=alldata)
+2020-05-07 12:00:39.1952 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 12:00:39.2298 Info Found 45 configuration items
+2020-05-07 12:00:39.2486 Info Configuration initialized.
+2020-05-07 12:00:39.2493 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-07 12:00:40.8718 Info AppDomain Shutting down. Logger closing...
+2020-05-07 12:00:40.8931 Info Logger has been shut down.
+2020-05-07 12:01:04.0088 Info Message Template Auto Format enabled
+2020-05-07 12:01:04.1244 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 12:01:04.2590 Info Adding target FileTarget(Name=alldata)
+2020-05-07 12:01:04.2885 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 12:01:04.3689 Info Found 45 configuration items
+2020-05-07 12:55:14.4002 Info Message Template Auto Format enabled
+2020-05-07 12:55:14.4657 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 12:55:14.5984 Info Adding target FileTarget(Name=alldata)
+2020-05-07 12:55:14.5984 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 12:55:14.6309 Info Found 45 configuration items
+2020-05-07 12:55:14.6416 Info Configuration initialized.
+2020-05-07 12:55:14.6416 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-07 12:55:16.1461 Info AppDomain Shutting down. Logger closing...
+2020-05-07 12:55:16.1639 Info Logger has been shut down.
+2020-05-07 12:55:34.8905 Info Message Template Auto Format enabled
+2020-05-07 12:55:34.9667 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 12:55:35.1103 Info Adding target FileTarget(Name=alldata)
+2020-05-07 12:55:35.1526 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 12:55:35.2353 Info Found 45 configuration items
+2020-05-07 13:15:45.7042 Info Message Template Auto Format enabled
+2020-05-07 13:15:45.7703 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 13:15:45.8607 Info Adding target FileTarget(Name=alldata)
+2020-05-07 13:15:45.9010 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 13:15:46.0137 Info Found 45 configuration items
+2020-05-07 13:17:16.8341 Info Message Template Auto Format enabled
+2020-05-07 13:17:16.8341 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 13:17:16.8905 Info Adding target FileTarget(Name=alldata)
+2020-05-07 13:17:16.8905 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 13:17:16.9186 Info Found 45 configuration items
+2020-05-07 13:17:16.9282 Info Configuration initialized.
+2020-05-07 13:17:16.9282 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-07 13:17:17.2519 Info AppDomain Shutting down. Logger closing...
+2020-05-07 13:17:17.2519 Info Logger has been shut down.
+2020-05-07 13:17:24.3566 Info Message Template Auto Format enabled
+2020-05-07 13:17:24.5252 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 13:17:24.9183 Info Adding target FileTarget(Name=alldata)
+2020-05-07 13:17:25.0064 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 13:17:25.0923 Info Found 45 configuration items
+2020-05-07 13:28:08.9061 Info Message Template Auto Format enabled
+2020-05-07 13:28:08.9278 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 13:28:08.9816 Info Adding target FileTarget(Name=alldata)
+2020-05-07 13:28:08.9816 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 13:28:09.0059 Info Found 45 configuration items
+2020-05-07 13:28:09.0160 Info Configuration initialized.
+2020-05-07 13:28:09.0160 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-07 13:28:10.5083 Info AppDomain Shutting down. Logger closing...
+2020-05-07 13:28:10.5191 Info Logger has been shut down.
+2020-05-07 13:28:20.5710 Info Message Template Auto Format enabled
+2020-05-07 13:28:20.6427 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 13:28:20.7754 Info Adding target FileTarget(Name=alldata)
+2020-05-07 13:28:20.7957 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 13:28:20.8684 Info Found 45 configuration items
+2020-05-07 13:36:27.6682 Info Message Template Auto Format enabled
+2020-05-07 13:36:27.6735 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 13:36:27.7105 Info Adding target FileTarget(Name=alldata)
+2020-05-07 13:36:27.7105 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 13:36:27.7328 Info Found 45 configuration items
+2020-05-07 13:36:27.7408 Info Configuration initialized.
+2020-05-07 13:36:27.7408 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-07 13:36:28.0422 Info AppDomain Shutting down. Logger closing...
+2020-05-07 13:36:28.0536 Info Logger has been shut down.
+2020-05-07 13:36:36.0062 Info Message Template Auto Format enabled
+2020-05-07 13:36:36.0976 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 13:36:36.2244 Info Adding target FileTarget(Name=alldata)
+2020-05-07 13:36:36.2860 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 13:36:36.5717 Info Found 45 configuration items
+2020-05-07 15:21:53.9843 Info Message Template Auto Format enabled
+2020-05-07 15:21:54.0454 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-07 15:21:54.2187 Info Adding target FileTarget(Name=alldata)
+2020-05-07 15:21:54.2187 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-07 15:21:54.2588 Info Found 45 configuration items
+2020-05-07 15:21:54.3033 Info Configuration initialized.
+2020-05-07 15:21:54.3033 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-07 15:21:56.7000 Info AppDomain Shutting down. Logger closing...
+2020-05-07 15:21:56.8114 Info Logger has been shut down.
+2020-05-08 10:27:58.3400 Info Message Template Auto Format enabled
+2020-05-08 10:27:58.4167 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-08 10:27:58.5170 Info Adding target FileTarget(Name=alldata)
+2020-05-08 10:27:58.5170 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-08 10:27:58.5494 Info Found 45 configuration items
+2020-05-08 10:27:58.6050 Info Configuration initialized.
+2020-05-08 10:27:58.6050 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-08 10:27:59.6647 Info AppDomain Shutting down. Logger closing...
+2020-05-08 10:27:59.6936 Info Logger has been shut down.
+2020-05-08 11:13:28.3772 Info Message Template Auto Format enabled
+2020-05-08 11:13:28.5602 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-08 11:13:28.9189 Info Adding target FileTarget(Name=alldata)
+2020-05-08 11:13:28.9962 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-08 11:13:29.2860 Info Found 45 configuration items
+2020-05-08 13:38:53.6755 Info Message Template Auto Format enabled
+2020-05-08 13:38:53.7069 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-08 13:38:53.8479 Info Adding target FileTarget(Name=alldata)
+2020-05-08 13:38:53.8479 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-08 13:38:53.8874 Info Found 45 configuration items
+2020-05-08 13:38:53.9160 Info Configuration initialized.
+2020-05-08 13:38:53.9160 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-08 13:38:55.0512 Info AppDomain Shutting down. Logger closing...
+2020-05-08 13:38:55.0793 Info Logger has been shut down.
+2020-05-09 09:42:34.0693 Info Message Template Auto Format enabled
+2020-05-09 09:42:34.1140 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-09 09:42:34.2477 Info Adding target FileTarget(Name=alldata)
+2020-05-09 09:42:34.2477 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-09 09:42:34.2796 Info Found 45 configuration items
+2020-05-09 09:42:34.3270 Info Configuration initialized.
+2020-05-09 09:42:34.3270 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-09 09:42:35.4826 Info AppDomain Shutting down. Logger closing...
+2020-05-09 09:42:35.5161 Info Logger has been shut down.
+2020-05-09 09:43:16.9336 Info Message Template Auto Format enabled
+2020-05-09 09:43:17.0789 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-09 09:43:17.2801 Info Adding target FileTarget(Name=alldata)
+2020-05-09 09:43:17.3573 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-09 09:43:17.4689 Info Found 45 configuration items
+2020-05-09 11:04:35.2207 Info Message Template Auto Format enabled
+2020-05-09 11:04:35.3466 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-09 11:04:35.6322 Info Adding target FileTarget(Name=alldata)
+2020-05-09 11:04:35.6494 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-09 11:04:36.0163 Info Found 45 configuration items
+2020-05-09 11:04:36.0881 Info Configuration initialized.
+2020-05-09 11:04:36.0906 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-09 11:04:38.7157 Info AppDomain Shutting down. Logger closing...
+2020-05-09 11:04:38.7546 Info Logger has been shut down.
+2020-05-09 15:14:31.3529 Info Message Template Auto Format enabled
+2020-05-09 15:14:31.4048 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-09 15:14:31.9447 Info Adding target FileTarget(Name=alldata)
+2020-05-09 15:14:31.9618 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-09 15:14:32.2401 Info Found 45 configuration items
+2020-05-09 15:14:32.3546 Info Configuration initialized.
+2020-05-09 15:14:32.3812 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-09 15:14:35.7947 Info AppDomain Shutting down. Logger closing...
+2020-05-09 15:14:35.8133 Info Logger has been shut down.
+2020-05-13 09:53:59.9053 Info Message Template Auto Format enabled
+2020-05-13 09:53:59.9518 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 09:54:00.1640 Info Adding target FileTarget(Name=alldata)
+2020-05-13 09:54:00.1640 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 09:54:00.2017 Info Found 45 configuration items
+2020-05-13 09:54:00.2102 Info Configuration initialized.
+2020-05-13 09:54:00.2102 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 09:54:01.2625 Info AppDomain Shutting down. Logger closing...
+2020-05-13 09:54:01.3448 Info Logger has been shut down.
+2020-05-13 09:58:16.7613 Info Message Template Auto Format enabled
+2020-05-13 09:58:16.7682 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 09:58:16.8600 Info Adding target FileTarget(Name=alldata)
+2020-05-13 09:58:16.8616 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 09:58:16.8819 Info Found 45 configuration items
+2020-05-13 09:58:16.8819 Info Configuration initialized.
+2020-05-13 09:58:16.8921 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 09:58:17.3536 Info AppDomain Shutting down. Logger closing...
+2020-05-13 09:58:17.3705 Info Logger has been shut down.
+2020-05-13 10:09:00.3836 Info Message Template Auto Format enabled
+2020-05-13 10:09:00.3961 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:09:00.5816 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:09:00.5816 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:09:00.6178 Info Found 45 configuration items
+2020-05-13 10:09:00.6394 Info Configuration initialized.
+2020-05-13 10:09:00.6394 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 10:09:01.4875 Info AppDomain Shutting down. Logger closing...
+2020-05-13 10:09:01.4875 Info Logger has been shut down.
+2020-05-13 10:09:22.9801 Info Message Template Auto Format enabled
+2020-05-13 10:09:23.0761 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:09:23.8987 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:09:24.1781 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:09:24.3344 Info Found 45 configuration items
+2020-05-13 10:10:51.6052 Info Message Template Auto Format enabled
+2020-05-13 10:10:51.6286 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:10:51.7017 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:10:51.7017 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:10:51.7245 Info Found 45 configuration items
+2020-05-13 10:10:51.7245 Info Configuration initialized.
+2020-05-13 10:10:51.7245 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 10:10:52.5305 Info AppDomain Shutting down. Logger closing...
+2020-05-13 10:10:52.5508 Info Logger has been shut down.
+2020-05-13 10:11:06.1010 Info Message Template Auto Format enabled
+2020-05-13 10:11:06.1813 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:11:06.4893 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:11:06.5517 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:11:06.8213 Info Found 45 configuration items
+2020-05-13 10:13:14.9836 Info Message Template Auto Format enabled
+2020-05-13 10:13:14.9899 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:13:15.0299 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:13:15.0299 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:13:15.0526 Info Found 45 configuration items
+2020-05-13 10:13:15.0526 Info Configuration initialized.
+2020-05-13 10:13:15.0526 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 10:13:15.3230 Info AppDomain Shutting down. Logger closing...
+2020-05-13 10:13:15.3338 Info Logger has been shut down.
+2020-05-13 10:13:22.1453 Info Message Template Auto Format enabled
+2020-05-13 10:13:22.4467 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:13:22.5822 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:13:22.5988 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:13:22.7757 Info Found 45 configuration items
+2020-05-13 10:23:59.9185 Info Message Template Auto Format enabled
+2020-05-13 10:23:59.9251 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:23:59.9658 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:23:59.9658 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:23:59.9944 Info Found 45 configuration items
+2020-05-13 10:24:00.0059 Info Configuration initialized.
+2020-05-13 10:24:00.0059 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 10:24:00.2913 Info AppDomain Shutting down. Logger closing...
+2020-05-13 10:24:00.3020 Info Logger has been shut down.
+2020-05-13 10:24:03.8563 Info Message Template Auto Format enabled
+2020-05-13 10:24:04.0360 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:24:04.1421 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:24:04.2085 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:24:04.4196 Info Found 45 configuration items
+2020-05-13 10:25:44.9086 Info Message Template Auto Format enabled
+2020-05-13 10:25:45.0128 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:25:45.1971 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:25:45.2157 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:25:45.2675 Info Found 45 configuration items
+2020-05-13 10:31:47.4048 Info Message Template Auto Format enabled
+2020-05-13 10:31:47.5010 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:31:47.6748 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:31:47.7582 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:31:47.8335 Info Found 45 configuration items
+2020-05-13 10:39:12.4386 Info Message Template Auto Format enabled
+2020-05-13 10:39:12.4658 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:39:12.5225 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:39:12.5225 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:39:12.5490 Info Found 45 configuration items
+2020-05-13 10:39:12.5490 Info Configuration initialized.
+2020-05-13 10:39:12.5490 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 10:39:13.6081 Info AppDomain Shutting down. Logger closing...
+2020-05-13 10:39:13.6216 Info Logger has been shut down.
+2020-05-13 10:39:24.2771 Info Message Template Auto Format enabled
+2020-05-13 10:39:24.3815 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:39:24.5759 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:39:24.5933 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:39:24.6679 Info Found 45 configuration items
+2020-05-13 10:42:47.5257 Info Message Template Auto Format enabled
+2020-05-13 10:42:47.5257 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:42:47.5684 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:42:47.5684 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:42:47.5904 Info Found 45 configuration items
+2020-05-13 10:42:47.5987 Info Configuration initialized.
+2020-05-13 10:42:47.5987 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 10:42:47.7873 Info AppDomain Shutting down. Logger closing...
+2020-05-13 10:42:47.7994 Info Logger has been shut down.
+2020-05-13 10:42:53.6294 Info Message Template Auto Format enabled
+2020-05-13 10:42:53.7274 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:42:53.9945 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:42:54.0229 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:42:54.1538 Info Found 45 configuration items
+2020-05-13 10:44:45.2179 Info Message Template Auto Format enabled
+2020-05-13 10:44:45.2241 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:44:45.2621 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:44:45.2621 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:44:45.2909 Info Found 45 configuration items
+2020-05-13 10:44:45.3030 Info Configuration initialized.
+2020-05-13 10:44:45.3030 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 10:44:45.5741 Info AppDomain Shutting down. Logger closing...
+2020-05-13 10:44:45.5881 Info Logger has been shut down.
+2020-05-13 10:44:52.5487 Info Message Template Auto Format enabled
+2020-05-13 10:44:52.7050 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 10:44:52.8565 Info Adding target FileTarget(Name=alldata)
+2020-05-13 10:44:52.8833 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 10:44:52.9670 Info Found 45 configuration items
+2020-05-13 12:57:30.1517 Info Message Template Auto Format enabled
+2020-05-13 12:57:30.2424 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 12:57:30.3316 Info Adding target FileTarget(Name=alldata)
+2020-05-13 12:57:30.3316 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 12:57:30.3542 Info Found 45 configuration items
+2020-05-13 12:57:30.3632 Info Configuration initialized.
+2020-05-13 12:57:30.3632 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 12:57:32.0145 Info AppDomain Shutting down. Logger closing...
+2020-05-13 12:57:32.0289 Info Logger has been shut down.
+2020-05-13 12:57:45.9342 Info Message Template Auto Format enabled
+2020-05-13 12:57:46.1323 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 12:57:46.5802 Info Adding target FileTarget(Name=alldata)
+2020-05-13 12:57:46.6570 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 12:57:46.7829 Info Found 45 configuration items
+2020-05-13 20:33:12.3083 Info Message Template Auto Format enabled
+2020-05-13 20:33:12.3675 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-13 20:33:12.4466 Info Adding target FileTarget(Name=alldata)
+2020-05-13 20:33:12.4466 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-13 20:33:12.4928 Info Found 45 configuration items
+2020-05-13 20:33:12.5093 Info Configuration initialized.
+2020-05-13 20:33:12.5093 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-13 20:33:13.4835 Info AppDomain Shutting down. Logger closing...
+2020-05-13 20:33:13.5049 Info Logger has been shut down.
+2020-05-14 12:28:58.6765 Info Message Template Auto Format enabled
+2020-05-14 12:28:58.7599 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-14 12:28:58.8474 Info Adding target FileTarget(Name=alldata)
+2020-05-14 12:28:58.8474 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-14 12:28:58.9274 Info Found 45 configuration items
+2020-05-14 12:28:58.9568 Info Configuration initialized.
+2020-05-14 12:28:58.9568 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-14 12:29:03.3088 Info AppDomain Shutting down. Logger closing...
+2020-05-14 12:29:03.3088 Info Logger has been shut down.
+2020-05-15 10:26:59.0316 Info Message Template Auto Format enabled
+2020-05-15 10:26:59.0619 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-15 10:26:59.2210 Info Adding target FileTarget(Name=alldata)
+2020-05-15 10:26:59.2210 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-15 10:26:59.2553 Info Found 45 configuration items
+2020-05-15 10:26:59.2659 Info Configuration initialized.
+2020-05-15 10:26:59.2659 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-15 10:27:00.6525 Info AppDomain Shutting down. Logger closing...
+2020-05-15 10:27:00.6525 Info Logger has been shut down.
+2020-05-15 10:34:35.5108 Info Message Template Auto Format enabled
+2020-05-15 10:34:35.6426 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-15 10:34:35.7697 Info Adding target FileTarget(Name=alldata)
+2020-05-15 10:34:35.7778 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-15 10:34:35.8258 Info Found 45 configuration items
+2020-05-15 10:56:41.2707 Info Message Template Auto Format enabled
+2020-05-15 10:56:41.3037 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-15 10:56:41.3501 Info Adding target FileTarget(Name=alldata)
+2020-05-15 10:56:41.3501 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-15 10:56:41.3782 Info Found 45 configuration items
+2020-05-15 10:56:41.3896 Info Configuration initialized.
+2020-05-15 10:56:41.3896 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-15 10:56:41.6756 Info AppDomain Shutting down. Logger closing...
+2020-05-15 10:56:41.6861 Info Logger has been shut down.
+2020-05-15 10:56:42.9022 Info Message Template Auto Format enabled
+2020-05-15 10:56:42.9315 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-15 10:56:42.9805 Info Adding target FileTarget(Name=alldata)
+2020-05-15 10:56:42.9805 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-15 10:56:43.0218 Info Found 45 configuration items
+2020-05-15 11:03:57.5806 Info Message Template Auto Format enabled
+2020-05-15 11:03:57.6124 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-15 11:03:57.6826 Info Adding target FileTarget(Name=alldata)
+2020-05-15 11:03:57.7076 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-15 11:03:57.7407 Info Found 45 configuration items
+2020-05-15 11:10:25.6583 Info Message Template Auto Format enabled
+2020-05-15 11:10:25.8312 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-15 11:10:26.2727 Info Adding target FileTarget(Name=alldata)
+2020-05-15 11:10:28.0388 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-15 11:10:28.6315 Info Found 45 configuration items
+2020-05-15 11:14:59.7320 Info Message Template Auto Format enabled
+2020-05-15 11:14:59.7573 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-15 11:14:59.7958 Info Adding target FileTarget(Name=alldata)
+2020-05-15 11:14:59.7958 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-15 11:14:59.8179 Info Found 45 configuration items
+2020-05-15 11:14:59.8264 Info Configuration initialized.
+2020-05-15 11:14:59.8264 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-15 11:15:01.0199 Info AppDomain Shutting down. Logger closing...
+2020-05-15 11:15:01.0704 Info Logger has been shut down.
+2020-05-15 11:36:40.2825 Info Message Template Auto Format enabled
+2020-05-15 11:36:40.3082 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-15 11:36:40.3980 Info Adding target FileTarget(Name=alldata)
+2020-05-15 11:36:40.3999 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-15 11:36:40.4253 Info Found 45 configuration items
+2020-05-15 11:36:40.4360 Info Configuration initialized.
+2020-05-15 11:36:40.4360 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-15 11:36:41.2394 Info AppDomain Shutting down. Logger closing...
+2020-05-15 11:36:41.2775 Info Logger has been shut down.
+2020-05-15 11:36:51.1699 Info Message Template Auto Format enabled
+2020-05-15 11:36:51.4347 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-15 11:36:51.6393 Info Adding target FileTarget(Name=alldata)
+2020-05-15 11:36:51.6592 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-15 11:36:51.7809 Info Found 45 configuration items
+2020-05-16 10:32:08.8141 Info Message Template Auto Format enabled
+2020-05-16 10:32:08.8631 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-16 10:32:09.0102 Info Adding target FileTarget(Name=alldata)
+2020-05-16 10:32:09.0102 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-16 10:32:09.0351 Info Found 45 configuration items
+2020-05-16 10:32:09.0450 Info Configuration initialized.
+2020-05-16 10:32:09.0651 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-16 10:32:14.5968 Info AppDomain Shutting down. Logger closing...
+2020-05-16 10:32:14.7021 Info Logger has been shut down.
+2020-05-16 22:15:03.1972 Info Message Template Auto Format enabled
+2020-05-16 22:15:03.2266 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-16 22:15:03.3573 Info Adding target FileTarget(Name=alldata)
+2020-05-16 22:15:03.3573 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-16 22:15:03.3915 Info Found 45 configuration items
+2020-05-16 22:15:03.4003 Info Configuration initialized.
+2020-05-16 22:15:03.4003 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-16 22:15:05.0752 Info AppDomain Shutting down. Logger closing...
+2020-05-16 22:15:05.1080 Info Logger has been shut down.
+2020-05-16 22:28:01.9040 Info Message Template Auto Format enabled
+2020-05-16 22:28:01.9488 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-16 22:28:02.0583 Info Adding target FileTarget(Name=alldata)
+2020-05-16 22:28:02.0583 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-16 22:28:02.0812 Info Found 45 configuration items
+2020-05-16 22:28:02.0895 Info Configuration initialized.
+2020-05-16 22:28:02.0895 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-16 22:28:02.8317 Info AppDomain Shutting down. Logger closing...
+2020-05-16 22:28:02.8606 Info Logger has been shut down.
+2020-05-16 22:38:34.7929 Info Message Template Auto Format enabled
+2020-05-16 22:38:34.8290 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-16 22:38:34.9913 Info Adding target FileTarget(Name=alldata)
+2020-05-16 22:38:34.9930 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-16 22:38:35.0158 Info Found 45 configuration items
+2020-05-16 22:38:35.0245 Info Configuration initialized.
+2020-05-16 22:38:35.0245 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.8.10751. Product version: 4.6.8.
+2020-05-16 22:38:35.6640 Info AppDomain Shutting down. Logger closing...
+2020-05-16 22:38:35.6746 Info Logger has been shut down.
+2020-05-17 22:17:53.0056 Info Message Template Auto Format enabled
+2020-05-17 22:17:53.0727 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-17 22:17:53.2057 Info Adding target FileTarget(Name=alldata)
+2020-05-17 22:17:53.2322 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-17 22:17:53.3676 Info Found 45 configuration items
+2020-05-18 07:56:46.1941 Info Message Template Auto Format enabled
+2020-05-18 07:56:46.5266 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-18 07:56:49.0197 Info Adding target FileTarget(Name=alldata)
+2020-05-18 07:56:49.0924 Info Adding target FileTarget(Name=otherFile-web)
+2020-05-18 07:56:49.3852 Info Found 45 configuration items
